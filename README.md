@@ -14,7 +14,7 @@
 ## 제작 및 실행 환경
 * HTML : HTML5
 * CSS : CSS3
-* JavaScript : ECMAScript6 이상
+* JavaScript : ECMAScript6
 
 ---
 ## 실행법
